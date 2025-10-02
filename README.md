@@ -14,6 +14,8 @@ See `src/` for scripts: `train.py`, `data_utils.py`, `models.py`, `eval.py`.
 2. Install:
 
    ```bash
+   git clone [https://github.com/AbdelkaderHamdi/distilbert-finetune.git](https://github.com/AbdelkaderHamdi/distilbert-finetune.git)
+   cd distilbert-finetune
    pip install -r requirements.txt
    ```
 
